@@ -1,1 +1,6 @@
-
+Title: Don't click button SignUp to home page
+Step-to-reproduce:
+  1)Open home page
+  2)Click to SignUp
+Expected result: Open page registration
+Actual result: Don't open page registration
